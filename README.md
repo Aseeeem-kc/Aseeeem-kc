@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An AI/ML enthusiast.</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm">
+![gif](https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeeem-kc&label=Profile%20views&color=0e75b6&style=flat" alt="aseeeem-kc" /> </p>
 
