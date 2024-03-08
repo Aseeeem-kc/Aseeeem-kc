@@ -1,17 +1,21 @@
-![Futuristic Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Ffuturistic-banner-ai-and-vr-technologies-self-learning-program-with-artificial-intelligence-ai-in-vr-concept-virtual-reality-software-development-3d-translation-of-the-japanese-word-future%2F411665527&psig=AOvVaw1T3YM-xi-Vd_x5JZS9JdCA&ust=1709959072259000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNiu7Irs44QDFQAAAAAdAAAAABAE)
+<p align="center">
+  <img src="/home/ashim/Downloads/aibanner.jpg" alt="Futuristic Banner" width="500">
+</p>
 
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
-<h3 align="center">An AI/ML enthusiast.</h3>
+<h3 align="center">Computer Science Student | AI/ML Enthusiast</h3>
 
 <p align="left">
   <img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" alt="gif" width="200">
 </p>
 
+<p align="left">I'm a computer science student interested in AI, machine learning, and various other aspects of computer science.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeeem-kc&label=Profile%20views&color=0e75b6&style=flat" alt="aseeeem-kc" /> </p>
 
-- 🌱 I’m currently learning **Python libraries such as numpy, pandas, matplotlib, seaborn and mathematics**
+- 🌱 I’m currently learning **Python libraries such as numpy, pandas, matplotlib, seaborn, and mathematics**
 
-- 📫 How to reach me **ashimkc7297@gmail.com**
+- 📫 How to reach me: **ashimkc7297@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
