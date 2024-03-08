@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An AI/ML enthusiast.</h3>
 
+<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeeem-kc&label=Profile%20views&color=0e75b6&style=flat" alt="aseeeem-kc" /> </p>
 
 - 🌱 I’m currently learning **Python libraries such as numpy, pandas, matplotlib, seaborn and mathematics**
-
-- 📝 I regularly write articles on [Basic machine learning and data science](Basic machine learning and data science)
-
-- 💬 Ask me about **Python basics, HTML, CSS, JAVASCRIPT**
 
 - 📫 How to reach me **ashimkc7297@gmail.com**
 
@@ -16,6 +14,7 @@
 <a href="https://linkedin.com/in/ashim kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashim kc" height="30" width="40" /></a>
 <a href="https://kaggle.com/ashim kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ashim kc" height="30" width="40" /></a>
 <a href="https://instagram.com/aseeeem_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aseeeem_12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ashim_kc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashim_kc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
