@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An AI/ML enthusiast.</h3>
 
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeeem-kc&label=Profile%20views&color=0e75b6&style=flat" alt="aseeeem-kc" /> </p>
 
