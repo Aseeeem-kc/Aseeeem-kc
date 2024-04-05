@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Aseeeem-kc/Aseeeem-kc/blob/main/aigithubbanner.jpg)]
+![MasterHead](https://github.com/Aseeeem-kc/Aseeeem-kc/blob/main/aigithubbanner.jpg)
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An Artificial Intelligent Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
