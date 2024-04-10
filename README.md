@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An Artificial Intelligent Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xT1XGv4aPEDIVblaik">
-<div class="tenor-gif-embed" data-postid="5518470" data-share-method="host" data-aspect-ratio="1.625" data-width="100%"><a href="https://tenor.com/view/silicon-valley-martin-starr-bertram-gilfoyle-smug-thoughtful-gif-5518470">Heh GIF</a>from <a href="https://tenor.com/search/silicon+valley-gifs">Silicon Valley GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/siliconvalleyhbo-hbo-silicon-valley-Svduji4OrPzed5aJDk">
 - 🔭 I’m currently working on **Recommendation system project**
 
 - 🌱 I’m currently learning **Mathematics, Deep learning, Neural Networks, Streamlit**
