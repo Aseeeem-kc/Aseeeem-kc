@@ -3,6 +3,8 @@
 <h3 align="center">An Artificial Intelligent Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xT1XGv4aPEDIVblaik">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseeeem-kc&label=Profile%20views&color=0e75b6&style=flat" alt="aseeeem-kc" /> </p>
+![GIF](https://media.giphy.com/media/xT1XGv4aPEDIVblaik/giphy.gif)
+
 
 - 🔭 I’m currently working on **Recommendation system project**
 
