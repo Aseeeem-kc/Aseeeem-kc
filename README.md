@@ -1,7 +1,6 @@
 ![MasterHead](https://github.com/Aseeeem-kc/Aseeeem-kc/blob/main/aigithubbanner.jpg)
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">An Artificial Intelligent Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/xT1XGv4aPEDIVblaik">
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR3cnRxcmRqOTBvc2t2NHAzbXBmcTNpOG03dXlubnd0b3k2cWlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif">
 
 - 🔭 I’m currently working on **Recommendation system project**
