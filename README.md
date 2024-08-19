@@ -12,7 +12,7 @@
         <li>📫 How to reach me <strong>ashimkc7297@gmail.com</strong></li>
       </ul>
     </td>
-    <td style="vertical-align: top;">
+    <td style="vertical-align: top; padding-left: 20px;">
       <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR3cnRxcmRqOTBvc2t2NHAzbXBmcTNpOG03dXlubnd0b3k2cWlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif">
     </td>
   </tr>
