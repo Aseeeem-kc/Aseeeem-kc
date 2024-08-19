@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">Computer Science Student</h3>
-<p align="center">
+<p align="right">
   <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR3cnRxcmRqOTBvc2t2NHAzbXBmcTNpOG03dXlubnd0b3k2cWlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif">
 </p>
 - 🔭 I’m currently working on **an online marketplace**
