@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<div style="display: flex; align-items: flex-start; gap: 40px;">
-  <div>
-    <ul>
-      <li>🔭 I’m currently working on <strong>an online marketplace</strong></li>
-      <li>🌱 I’m currently learning <strong>Django rest framework</strong></li>
-      <li>👨‍💻 Visit my portfolio site <a href="https://ashimkchhetri.com.np">here</a></li>
-      <li>📫 How to reach me <strong>ashimkc7297@gmail.com</strong></li>
-    </ul>
-  </div>
-  <div>
-    <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR3cnRxcmRqOTBvc2t2NHAzbXBmcTNpOG03dXlubnd0b3k2cWlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif">
-  </div>
-</div>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="vertical-align: top; padding-right: 40px;">
+      <ul>
+        <li>🔭 I’m currently working on <strong>an online marketplace</strong></li>
+        <li>🌱 I’m currently learning <strong>Django rest framework</strong></li>
+        <li>👨‍💻 Visit my portfolio site <a href="https://ashimkchhetri.com.np">here</a></li>
+        <li>📫 How to reach me <strong>ashimkc7297@gmail.com</strong></li>
+      </ul>
+    </td>
+    <td style="vertical-align: top;">
+      <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR3cnRxcmRqOTBvc2t2NHAzbXBmcTNpOG03dXlubnd0b3k2cWlxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7b8VnHVOMeTawFO/giphy.gif">
+    </td>
+  </tr>
+</table>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/ashim-kc-643501231" target="_blank">
