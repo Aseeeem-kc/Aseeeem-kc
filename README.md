@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashim kc</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aseeeem-kc" alt="aseeeem-kc" /></a> </p>
 
 - 🔭 I’m currently working on **multi-llm application**
 
