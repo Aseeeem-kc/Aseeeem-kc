@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Ashim KC, a Computer Science student from Kathmandu, Nepal</h2>
+<h2 align="left">Hi 👋! I'm Ashim KC, an AI Engineer from Kathmandu, Nepal</h2>
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXd2dHpmZHdmeGthenVxcW10aWg5dmhzNWVnMW1veDUxbGdiNmswdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vbo5nHbW0IHJ0AzG5C/giphy.gif" alt="GIF" />
 
@@ -93,11 +93,9 @@ I build **AI Solutions** and **Automate Workflows**. I specialize in handling AI
 
 ###
 
-### 📊 GitHub Statistics
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aseeeem-kc&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Aseeeem-kc)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aseeeem-kc&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Aseeeem-kc)
+## 📊 GitHub Statistics
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aseeeem-kc&" alt="aseeeem-kc" /></p>
 
-###
 
 ### 🌐 Connect With Me
 
